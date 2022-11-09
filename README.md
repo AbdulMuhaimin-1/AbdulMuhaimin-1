@@ -12,6 +12,8 @@
 - ⚡ Fun fact: ***I Love Coding***.
 
 
+---
+
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdulMuhaimin-1&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
