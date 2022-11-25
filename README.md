@@ -1,7 +1,7 @@
 # <div align = 'center'> Hi 👋🏼 , I'm Abdul-Muhaimin✨</div>
 
 
-- 🔭 I’m currently working on **Projects and Contributions** to perfect myself in programming field.
+- 🔭 I’m currently working on **Projects and Contributions** to perfect myself in this field of programming.
 - 👨🏼‍💻 I'm currently taking a bootcamp course on **Python**.
 - 🌱 My next lesson's will hopefully be on another bootcamp, which i'll undertake **Full Stack Web Development** course.
 - 🤔 I’m looking for help with how to best contribute to **GitHub**.
