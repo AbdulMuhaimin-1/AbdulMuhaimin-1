@@ -15,7 +15,7 @@
 ---
 
 
-<p align="center">
+<p align="Left">
  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdulMuhaimin-1&show_icons=true&theme=tokyonight#gh-dark-mode-only" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMuhaimin-1&theme=toyonight" />
 </p>
